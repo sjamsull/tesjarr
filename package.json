@@ -1,0 +1,26 @@
+{
+  "name": "tesjarr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjamsull/tesjarr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjamsull/tesjarr/issues"
+  },
+  "homepage": "https://github.com/sjamsull/tesjarr#readme",
+  "description": "",
+  "dependencies": {
+    "@mysten/sui.js": "^0.54.1",
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
